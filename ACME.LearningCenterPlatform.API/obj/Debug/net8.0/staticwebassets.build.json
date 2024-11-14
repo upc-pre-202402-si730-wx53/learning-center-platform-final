@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sjbxjQCS3M0i/idJRRBIx5zTMUUr38mBE98Hf6B8Zy4=",
+  "Source": "ACME.LearningCenterPlatform.API",
+  "BasePath": "_content/ACME.LearningCenterPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
